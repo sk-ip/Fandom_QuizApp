@@ -7,7 +7,7 @@ This is a Quiz App based on simple nodejs, here some questions will be asked rel
 The rules of the game are as follows
 
 * For every correct answer **+1 point**
-* For every incorrect answer **-1 point**
+* For every incorrect answer **0 point**
 
 ## Demo Link
 
